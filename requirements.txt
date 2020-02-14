@@ -1,0 +1,11 @@
+Django==2.1.15
+zappa==0.48.2
+django-import-export==2.0.1
+dj-database-url==0.5.0
+django-environ==0.4.5
+django-model-utils==4.0.0
+pydash==4.7.6
+django-simple-history==2.8.0
+django-object-actions==2.0.0
+django-hashid-field==3.1.1
+django-storages==1.8
