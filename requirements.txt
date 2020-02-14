@@ -1,4 +1,4 @@
-Django==2.1.15
+Django==2.2.10
 zappa==0.48.2
 django-import-export==2.0.1
 dj-database-url==0.5.0
